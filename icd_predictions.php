@@ -1,4 +1,4 @@
- <!-- Also put the following code in demographics.php so that it links to icd_predictions.php 
+ <!-- Also put the following code in interface/patient_file/summary/demographics.php so that it links to icd_predictions.php 
 <!-- <div class="patient-links"> -->
         <!-- Link to ICD Predictions page -->
 <!--         <a href="icd_predictions.php" target="_blank">View ICD Predictions</a> -->
